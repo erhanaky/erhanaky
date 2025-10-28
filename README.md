@@ -79,4 +79,4 @@ My architectural work is complemented by strong design sensibilities:
 
 | Stats Overview | Top Languages |
 | :---: | :---: |
-| [![Erhan Akkaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erhanaky&show_icons=true&theme=dracula&hide_border=true)](https://github.com/erhanaky) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erhanaky&layout=compact&theme=dracula&hide_border=true)](https://github.com/erhanaky) |
+| [![Erhan Akkaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erhanaky&show_icons=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/erhanaky) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erhanaky&layout=compact&theme=dracula&hide_border=true&count_private=true)](https://github.com/erhanaky) |
