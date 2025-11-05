@@ -76,4 +76,4 @@ My architectural work is complemented by strong design sensibilities:
 ---
 
 ### 🔥 My GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erhanaky&theme=slate&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erhanaky&theme=radical&hide_border=true)](https://git.io/streak-stats)
