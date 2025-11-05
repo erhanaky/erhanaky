@@ -60,7 +60,18 @@ My architectural work is complemented by strong design sensibilities:
 
 ---
 
-## 🌐 Connect with Me
+### 🚀 My Published NPM Package
+
+| Name | Links |
+| :--- | :--- |
+| **react-holiday-banner** | [![NPM Version](https://img.shields.io/npm/v/react-holiday-banner.svg?style=for-the-badge&logo=npm&logoColor=red)](https://www.npmjs.com/package/react-holiday-banner) [![Source Code](https://img.shields.io/badge/Source%20Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erhanaky/react-holiday-banner) |
+
+A sleek, easy-to-use React component for displaying festive and customizable holiday banners on your website. 
+Perfect for quick seasonal updates without complex configurations.
+
+---
+
+### 🌐 Connect with Me
 
 | Platform | Details |
 | :--- | :--- |
@@ -69,7 +80,9 @@ My architectural work is complemented by strong design sensibilities:
 
 ---
 
-### 📧 Contact Details
+## 📧 Contact Details
 
 * **Email:** `erhanaky@gmail.com`
 * **Contact Form:** `https://www.erhanakkaya.com/contact`
+
+
