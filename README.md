@@ -37,15 +37,15 @@ My focus is on creating scalable, high-performance web applications using modern
 
 | Category | Badges |
 | :--- | :--- |
-| **Frameworks** | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/) [![NuxtJS](https://img.shields.io/badge/NuxtJS-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=black)](https://nuxtjs.org/) |
+| **Frameworks** | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/) [![NuxtJS](https://img.shields.io/badge/NuxtJS-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=black)](https://nuxtjs.org/) [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/) |
 | **Languages** | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) |
 
 ### 🎨 Styling, Data & Other Tools
 
 | Category | Badges |
 | :--- | :--- |
-| **Styling** | [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) |
-| **Data/Tools** | [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/) [![OpenGraph](https://img.shields.io/badge/OpenGraph-181717?style=for-the-badge&logo=opengraph&logoColor=white)](https://ogp.me/) |
+| **Styling** | [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)|
+| **Data/Tools** | [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/) [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html) [![OpenGraph](https://img.shields.io/badge/OpenGraph-181717?style=for-the-badge&logo=opengraph&logoColor=white)](https://ogp.me/) [![Neon](https://img.shields.io/badge/Neon-4D4D4D?style=for-the-badge&logo=neondatabase&logoColor=white)](https://neon.tech/) |
 
 ---
 
@@ -66,9 +66,14 @@ My architectural work is complemented by strong design sensibilities:
 | **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/erhanaky) |
 | **Portfolio** | [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://erhanakkaya.com) |
 
-> **⚠️ Important Note:** My online portfolio is currently under construction. Please reach out via email for any inquiries or collaborations!
+---
 
 ### 📧 Contact Details
 
 * **Email:** `erhanaky@gmail.com`
 * **Contact Form:** `https://erhanakkaya.com/contact`
+
+---
+
+### 🔥 My GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erhanaky&theme=slate&hide_border=true)](https://git.io/streak-stats)
