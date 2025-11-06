@@ -92,12 +92,3 @@ Perfect for quick seasonal updates without complex configurations.
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=erhanaky&layout=compact&theme=transparent&hide_border=true" 
     height="180" />
 </p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=erhanaky&theme=transparent&hide_border=true" 
-    height="150" />
-</p>
-
-
-
