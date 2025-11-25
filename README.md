@@ -81,15 +81,3 @@ Perfect for quick seasonal updates without complex configurations.
 | :--- | :--- |
 | **Portfolio & Blog & Contact** | [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=homeassistant&logoColor=white)](https://www.erhanakkaya.com) [![Website](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=blogger&logoColor=white)](https://www.erhanakkaya.com/blog) [![Website](https://img.shields.io/badge/Contact-000000?style=for-the-badge&logo=maildotru&logoColor=white)](https://www.erhanakkaya.com/en/contact) |
 | **Social** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/erhanaky) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/erhanaky_art) |
-
-
----
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=erhanaky&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" 
-    height="180" />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=erhanaky&layout=compact&theme=transparent&hide_border=true" 
-    height="180" />
-</p>
